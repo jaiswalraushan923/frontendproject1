@@ -1,2 +1,4 @@
 # frontendproject1
-This is my first frontend project using HTML, CSS and JAVASCRIPT in direction to become full stack developer. This project use modern fronend technologies and it is also responsive.
+Welcome to ModernStart, my first frontend project created using HTML, CSS, and JavaScript. This project marks the beginning of my journey to become a Full Stack Developer.
+
+It showcases a modern, responsive design with clean UI and interactive elements — all built from scratch using core web technologies.
